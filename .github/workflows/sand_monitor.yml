@@ -47,10 +47,11 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || '1311432483' }}
           CACHE_FILE: 'seen_updates.json'
         run: |
-          if [ "${{ github.event.inputs.force_alert }}" = "true" ]; then
-            echo "Running in Test / Force Alert mode..."
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual Trigger: Running in Immediate Alert mode..."
             python monitor.py --once --test
           else
+            echo "Scheduled Trigger: Running in Cache Deduplication mode..."
             python monitor.py --once
           fi
 
