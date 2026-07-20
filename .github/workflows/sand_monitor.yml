@@ -1,0 +1,49 @@
+name: Telangana Sand Availability Monitor
+
+on:
+  schedule:
+    # 8:00 AM IST (2:30 AM UTC)
+    - cron: '30 2 * * *'
+    # 2:45 PM IST (9:15 AM UTC - pre-slot check for Karimnagar)
+    - cron: '15 9 * * *'
+    # 3:00 PM IST (9:30 AM UTC - peak slot opening time)
+    - cron: '30 9 * * *'
+    # 3:15 PM IST (9:45 AM UTC - peak slot check)
+    - cron: '45 9 * * *'
+  workflow_dispatch: # Allows manual one-click trigger from GitHub UI
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Sand Monitor Check
+        env:
+          TARGET_URL: ${{ secrets.TARGET_URL || 'https://tgmiv.cgg.gov.in/home' }}
+          KEYWORDS: ${{ secrets.KEYWORDS || 'Karimnagar,కరీంనగర్,Saidapur,సైదాపూర్,Elabotharam,ఎలబోతారం,Lingapur,లింగాపూర్,Korekal,కోరేకల్' }}
+          ENABLE_TELEGRAM: 'true'
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CACHE_FILE: 'seen_updates.json'
+        run: |
+          python monitor.py --once
+
+      - name: Commit & Push Updated Cache
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_updates.json sand_monitor.log || true
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update seen announcements cache [skip ci]" && git push)

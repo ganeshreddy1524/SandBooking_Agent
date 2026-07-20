@@ -1,0 +1,575 @@
+2026-07-20 11:06:01,631 [INFO] ==================================================
+2026-07-20 11:06:01,632 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 11:06:01,632 [INFO] ==================================================
+2026-07-20 11:06:01,632 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 11:06:01,634 [INFO] Target Keywords  : ['Jagitial', 'Karimnagar', 'Lingapur', 'Korutla', 'open', 'booking', 'ఇసుక', 'బుకింగ్స్']
+2026-07-20 11:06:01,642 [INFO] Telegram Enabled : False
+2026-07-20 11:06:01,642 [INFO] Email Enabled    : False
+2026-07-20 11:06:01,643 [INFO] Cache File       : seen_updates.json
+2026-07-20 11:06:01,643 [INFO] Mode: Single Execution (--once)
+2026-07-20 11:06:01,668 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:06:01,668 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:06:02,399 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:06:02,403 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:06:02,405 [INFO]    Notice: 3.Karimnagar: Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:06:02,406 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking']
+2026-07-20 11:06:02,408 [INFO]    Notice: 7.Mahabubnagar:Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:06:02,410 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'ఇసుక']
+2026-07-20 11:06:02,412 [INFO]    Notice: 12.Karimnagar: ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:06:02,416 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Jagitial', 'ఇసుక', 'బుకింగ్స్']
+2026-07-20 11:06:02,419 [INFO]    Notice: 4.Jagitial:జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:06:02,423 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'Lingapur', 'booking']
+2026-07-20 11:06:02,425 [INFO]    Notice: 11.Karimnagar: Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:06:02,438 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'ఇసుక']
+2026-07-20 11:06:02,440 [INFO]    Notice: 12.Karimnagar:ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:06:02,444 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:06:02,446 [INFO]    Notice: 10.Karimnagar: 23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:06:02,448 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:06:02,450 [INFO]    Notice: 10.Karimnagar:23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:06:02,452 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:06:02,454 [INFO]    Notice: 3.Karimnagar:Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:06:02,456 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:06:02,458 [INFO]    Notice: 8.Mahabubnagar: Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:06:02,466 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:06:02,470 [INFO]    Notice: 6.Mancherial: Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:06:02,473 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking']
+2026-07-20 11:06:02,476 [INFO]    Notice: 5.Narayanpet: Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:06:02,478 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'ఇసుక']
+2026-07-20 11:06:02,481 [INFO]    Notice: 9.Karimnagar:The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:06:02,485 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:06:02,486 [INFO]    Notice: 8.Mahabubnagar:Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:06:02,488 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'Lingapur', 'booking']
+2026-07-20 11:06:02,490 [INFO]    Notice: 11.Karimnagar:Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:06:02,491 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:06:02,493 [INFO]    Notice: 6.Mancherial:Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:06:02,495 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking']
+2026-07-20 11:06:02,496 [INFO]    Notice: 5.Narayanpet:Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:06:02,498 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'ఇసుక']
+2026-07-20 11:06:02,500 [INFO]    Notice: 9.Karimnagar: The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:06:02,504 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking']
+2026-07-20 11:06:02,505 [INFO]    Notice: 7.Mahabubnagar: Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:06:02,508 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Jagitial', 'ఇసుక', 'బుకింగ్స్']
+2026-07-20 11:06:02,510 [INFO]    Notice: 4.Jagitial: జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:06:02,513 [INFO] Completed run: Dispatched 20 new alert(s).
+2026-07-20 11:06:14,658 [INFO] ==================================================
+2026-07-20 11:06:14,658 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 11:06:14,658 [INFO] ==================================================
+2026-07-20 11:06:14,659 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 11:06:14,659 [INFO] Target Keywords  : ['Jagitial', 'Karimnagar', 'Lingapur', 'Korutla', 'open', 'booking', 'ఇసుక', 'బుకింగ్స్']
+2026-07-20 11:06:14,659 [INFO] Telegram Enabled : False
+2026-07-20 11:06:14,659 [INFO] Email Enabled    : False
+2026-07-20 11:06:14,659 [INFO] Cache File       : seen_updates.json
+2026-07-20 11:06:14,659 [INFO] Mode: Single Execution (--once)
+2026-07-20 11:06:14,660 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:06:14,660 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:06:15,310 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:06:15,313 [INFO] No new matching sand availability announcements found in this run.
+2026-07-20 11:06:23,373 [INFO] ==================================================
+2026-07-20 11:06:23,373 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 11:06:23,374 [INFO] ==================================================
+2026-07-20 11:06:23,374 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 11:06:23,374 [INFO] Target Keywords  : ['Jagitial', 'Karimnagar', 'Lingapur', 'Korutla', 'open', 'booking', 'ఇసుక', 'బుకింగ్స్']
+2026-07-20 11:06:23,374 [INFO] Telegram Enabled : False
+2026-07-20 11:06:23,374 [INFO] Email Enabled    : False
+2026-07-20 11:06:23,374 [INFO] Cache File       : seen_updates.json
+2026-07-20 11:06:23,374 [INFO] Mode: Single Execution (--once)
+2026-07-20 11:06:23,374 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:06:23,374 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:06:24,112 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:06:24,117 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Jagitial', 'ఇసుక', 'బుకింగ్స్']
+2026-07-20 11:06:24,117 [INFO]    Notice: 4.Jagitial: జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:06:24,118 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:06:24,118 [INFO]    Notice: 8.Mahabubnagar:Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:06:24,118 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:06:24,118 [INFO]    Notice: 3.Karimnagar: Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:06:24,119 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking']
+2026-07-20 11:06:24,119 [INFO]    Notice: 7.Mahabubnagar:Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:06:24,119 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking']
+2026-07-20 11:06:24,119 [INFO]    Notice: 5.Narayanpet: Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:06:24,119 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'Lingapur', 'booking']
+2026-07-20 11:06:24,119 [INFO]    Notice: 11.Karimnagar: Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:06:24,119 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'Lingapur', 'booking']
+2026-07-20 11:06:24,120 [INFO]    Notice: 11.Karimnagar:Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:06:24,120 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:06:24,120 [INFO]    Notice: 10.Karimnagar: 23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:06:24,120 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'ఇసుక']
+2026-07-20 11:06:24,120 [INFO]    Notice: 9.Karimnagar:The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:06:24,120 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Jagitial', 'ఇసుక', 'బుకింగ్స్']
+2026-07-20 11:06:24,120 [INFO]    Notice: 4.Jagitial:జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:06:24,121 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:06:24,121 [INFO]    Notice: 3.Karimnagar:Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:06:24,121 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'ఇసుక']
+2026-07-20 11:06:24,121 [INFO]    Notice: 12.Karimnagar:ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:06:24,121 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:06:24,122 [INFO]    Notice: 10.Karimnagar:23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:06:24,122 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:06:24,122 [INFO]    Notice: 8.Mahabubnagar: Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:06:24,122 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking']
+2026-07-20 11:06:24,122 [INFO]    Notice: 7.Mahabubnagar: Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:06:24,122 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'ఇసుక']
+2026-07-20 11:06:24,122 [INFO]    Notice: 12.Karimnagar: ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:06:24,123 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking']
+2026-07-20 11:06:24,123 [INFO]    Notice: 5.Narayanpet:Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:06:24,123 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'ఇసుక']
+2026-07-20 11:06:24,123 [INFO]    Notice: 9.Karimnagar: The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:06:24,123 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:06:24,123 [INFO]    Notice: 6.Mancherial: Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:06:24,124 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:06:24,124 [INFO]    Notice: 6.Mancherial:Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:06:24,124 [INFO] Completed run: Dispatched 20 new alert(s).
+2026-07-20 11:11:05,186 [INFO] ==================================================
+2026-07-20 11:11:05,189 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 11:11:05,189 [INFO] ==================================================
+2026-07-20 11:11:05,189 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 11:11:05,194 [INFO] Target Keywords  : ['Elabotharam', 'Saidapur', 'Karimnagar', 'ఎలబోతారం', 'సైదాపూర్', 'కరీంనగర్', 'open', 'booking', 'reach', 'ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:11:05,194 [INFO] Telegram Enabled : False
+2026-07-20 11:11:05,194 [INFO] Email Enabled    : False
+2026-07-20 11:11:05,194 [INFO] Cache File       : seen_updates.json
+2026-07-20 11:11:05,194 [INFO] Mode: Single Execution (--once)
+2026-07-20 11:11:05,194 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:11:05,194 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:11:06,229 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:11:06,232 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'reach']
+2026-07-20 11:11:06,232 [INFO]    Notice: 11.Karimnagar: Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:11:06,233 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:11:06,233 [INFO]    Notice: 10.Karimnagar: 23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:11:06,233 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:11:06,233 [INFO]    Notice: 7.Mahabubnagar: Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:11:06,233 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:11:06,233 [INFO]    Notice: 4.Jagitial:జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:11:06,234 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:11:06,234 [INFO]    Notice: 10.Karimnagar:23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:11:06,234 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:11:06,234 [INFO]    Notice: 8.Mahabubnagar:Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:11:06,234 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:11:06,234 [INFO]    Notice: 6.Mancherial: Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:11:06,234 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:11:06,234 [INFO]    Notice: 6.Mancherial:Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:11:06,235 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'ఇసుక', 'రీచ్']
+2026-07-20 11:11:06,235 [INFO]    Notice: 12.Karimnagar: ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:11:06,235 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:11:06,236 [INFO]    Notice: 7.Mahabubnagar:Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:11:06,237 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'ఇసుక', 'రీచ్']
+2026-07-20 11:11:06,238 [INFO]    Notice: 12.Karimnagar:ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:11:06,238 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'booking', 'ఇసుక']
+2026-07-20 11:11:06,238 [INFO]    Notice: 9.Karimnagar: The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:11:06,238 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:11:06,239 [INFO]    Notice: 4.Jagitial: జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:11:06,239 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:11:06,239 [INFO]    Notice: 5.Narayanpet:Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:11:06,239 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'reach']
+2026-07-20 11:11:06,239 [INFO]    Notice: 11.Karimnagar:Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:11:06,240 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'booking', 'ఇసుక']
+2026-07-20 11:11:06,240 [INFO]    Notice: 9.Karimnagar:The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:11:06,240 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:11:06,240 [INFO]    Notice: 3.Karimnagar:Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:11:06,240 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:11:06,241 [INFO]    Notice: 8.Mahabubnagar: Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:11:06,241 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:11:06,241 [INFO]    Notice: 3.Karimnagar: Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:11:06,241 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:11:06,241 [INFO]    Notice: 5.Narayanpet: Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:11:06,241 [INFO] Completed run: Dispatched 20 new alert(s).
+2026-07-20 11:17:18,421 [INFO] ==================================================
+2026-07-20 11:17:18,762 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 11:17:18,762 [INFO] ==================================================
+2026-07-20 11:17:18,763 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 11:17:18,763 [INFO] Target Keywords  : ['Elabotharam', 'Saidapur', 'Karimnagar', 'ఎలబోతారం', 'సైదాపూర్', 'కరీంనగర్', 'open', 'booking', 'reach', 'ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:17:18,764 [INFO] Telegram Enabled : True
+2026-07-20 11:17:18,764 [INFO] Email Enabled    : False
+2026-07-20 11:17:18,764 [INFO] Cache File       : seen_updates.json
+2026-07-20 11:17:18,764 [INFO] Mode: Single Execution (--once)
+2026-07-20 11:17:18,764 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:17:18,764 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:17:19,614 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:17:19,618 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:17:19,618 [INFO]    Notice: 4.Jagitial: జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:17:24,561 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:24,564 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:17:24,564 [INFO]    Notice: 5.Narayanpet: Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:17:26,665 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:26,667 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'ఇసుక', 'రీచ్']
+2026-07-20 11:17:26,668 [INFO]    Notice: 12.Karimnagar:ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:17:28,460 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:28,462 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:17:28,463 [INFO]    Notice: 5.Narayanpet:Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:17:30,158 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:30,161 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'booking', 'ఇసుక']
+2026-07-20 11:17:30,161 [INFO]    Notice: 9.Karimnagar:The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:17:31,721 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:31,725 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:17:31,726 [INFO]    Notice: 3.Karimnagar: Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:17:33,895 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:33,898 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'reach']
+2026-07-20 11:17:33,898 [INFO]    Notice: 11.Karimnagar:Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:17:35,582 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:35,584 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'booking', 'ఇసుక']
+2026-07-20 11:17:35,585 [INFO]    Notice: 9.Karimnagar: The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:17:37,186 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:37,190 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:17:37,191 [INFO]    Notice: 6.Mancherial: Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:17:38,876 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:38,878 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:17:38,878 [INFO]    Notice: 10.Karimnagar: 23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:17:40,787 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:40,790 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:17:40,791 [INFO]    Notice: 4.Jagitial:జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:17:42,764 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:42,765 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:17:42,766 [INFO]    Notice: 3.Karimnagar:Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:17:44,665 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:44,668 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'reach']
+2026-07-20 11:17:44,668 [INFO]    Notice: 11.Karimnagar: Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:17:47,544 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:47,548 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'ఇసుక', 'రీచ్']
+2026-07-20 11:17:47,548 [INFO]    Notice: 12.Karimnagar: ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:17:50,262 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:50,267 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:17:50,268 [INFO]    Notice: 6.Mancherial:Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:17:52,386 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:52,389 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:17:52,389 [INFO]    Notice: 7.Mahabubnagar: Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:17:54,396 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:54,398 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:17:54,398 [INFO]    Notice: 7.Mahabubnagar:Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:17:56,398 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:56,401 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:17:56,401 [INFO]    Notice: 8.Mahabubnagar: Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:17:58,517 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:17:58,520 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:17:58,521 [INFO]    Notice: 8.Mahabubnagar:Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:18:00,976 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:00,981 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:18:00,981 [INFO]    Notice: 10.Karimnagar:23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:18:03,543 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:03,546 [INFO] Completed run: Dispatched 20 new alert(s).
+2026-07-20 11:18:28,631 [INFO] ==================================================
+2026-07-20 11:18:28,632 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 11:18:28,632 [INFO] ==================================================
+2026-07-20 11:18:28,632 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 11:18:28,633 [INFO] Target Keywords  : ['Elabotharam', 'Saidapur', 'Karimnagar', 'ఎలబోతారం', 'సైదాపూర్', 'కరీంనగర్', 'open', 'booking', 'reach', 'ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:18:28,635 [INFO] Telegram Enabled : True
+2026-07-20 11:18:28,635 [INFO] Email Enabled    : False
+2026-07-20 11:18:28,635 [INFO] Cache File       : seen_updates.json
+2026-07-20 11:18:28,635 [INFO] Mode: Single Execution (--once)
+2026-07-20 11:18:28,636 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:18:28,637 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:18:30,013 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:18:30,018 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'reach']
+2026-07-20 11:18:30,019 [INFO]    Notice: 11.Karimnagar: Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:18:32,655 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:32,659 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:18:32,660 [INFO]    Notice: 8.Mahabubnagar:Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:18:34,282 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:34,287 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:18:34,287 [INFO]    Notice: 7.Mahabubnagar:Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:18:36,558 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:36,562 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:18:36,562 [INFO]    Notice: 4.Jagitial: జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:18:38,432 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:38,435 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'booking', 'ఇసుక']
+2026-07-20 11:18:38,435 [INFO]    Notice: 9.Karimnagar: The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:18:40,018 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:40,022 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'booking', 'ఇసుక']
+2026-07-20 11:18:40,022 [INFO]    Notice: 9.Karimnagar:The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:18:41,699 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:41,703 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:18:41,703 [INFO]    Notice: 6.Mancherial:Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:18:47,033 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:47,035 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:18:47,036 [INFO]    Notice: 5.Narayanpet:Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:18:49,076 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:49,080 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:18:49,080 [INFO]    Notice: 4.Jagitial:జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:18:51,403 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:51,406 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:18:51,406 [INFO]    Notice: 8.Mahabubnagar: Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:18:53,290 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:53,294 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:18:53,294 [INFO]    Notice: 10.Karimnagar: 23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:18:54,903 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:54,906 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'ఇసుక', 'రీచ్']
+2026-07-20 11:18:54,906 [INFO]    Notice: 12.Karimnagar:ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:18:56,299 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:56,304 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:18:56,304 [INFO]    Notice: 10.Karimnagar:23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:18:57,734 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:57,737 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:18:57,737 [INFO]    Notice: 5.Narayanpet: Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:18:59,786 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:18:59,790 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:18:59,791 [INFO]    Notice: 3.Karimnagar: Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:19:01,410 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:19:01,412 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:19:01,412 [INFO]    Notice: 3.Karimnagar:Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:19:03,780 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:19:03,786 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:19:03,794 [INFO]    Notice: 7.Mahabubnagar: Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:19:05,728 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:19:05,733 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:19:05,733 [INFO]    Notice: 6.Mancherial: Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:19:07,573 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:19:07,576 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'ఇసుక', 'రీచ్']
+2026-07-20 11:19:07,577 [INFO]    Notice: 12.Karimnagar: ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:19:09,548 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:19:09,553 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'reach']
+2026-07-20 11:19:09,554 [INFO]    Notice: 11.Karimnagar:Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:19:11,151 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:19:11,154 [INFO] Completed run: Dispatched 20 new alert(s).
+2026-07-20 11:20:16,567 [INFO] ==================================================
+2026-07-20 11:20:16,568 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 11:20:16,568 [INFO] ==================================================
+2026-07-20 11:20:16,568 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 11:20:16,568 [INFO] Target Keywords  : ['Elabotharam', 'Saidapur', 'Karimnagar', 'ఎలబోతారం', 'సైదాపూర్', 'కరీంనగర్', 'open', 'booking', 'reach', 'ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:20:16,568 [INFO] Telegram Enabled : True
+2026-07-20 11:20:16,569 [INFO] Email Enabled    : False
+2026-07-20 11:20:16,569 [INFO] Cache File       : seen_updates.json
+2026-07-20 11:20:16,569 [INFO] Mode: Single Execution (--once)
+2026-07-20 11:20:16,569 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:20:16,569 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:20:17,196 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:20:17,199 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:20:17,199 [INFO]    Notice: 6.Mancherial:Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:20:19,146 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:19,149 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:20:19,150 [INFO]    Notice: 4.Jagitial:జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:20:20,719 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:20,722 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:20:20,722 [INFO]    Notice: 8.Mahabubnagar: Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:20:22,126 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:22,130 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:20:22,132 [INFO]    Notice: 5.Narayanpet: Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:20:23,693 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:23,697 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:20:23,697 [INFO]    Notice: 7.Mahabubnagar: Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:20:25,602 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:25,605 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'reach']
+2026-07-20 11:20:25,605 [INFO]    Notice: 11.Karimnagar: Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:20:27,111 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:27,114 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:20:27,114 [INFO]    Notice: 3.Karimnagar:Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:20:28,891 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:28,895 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:20:28,896 [INFO]    Notice: 5.Narayanpet:Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:20:30,898 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:30,902 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:20:30,903 [INFO]    Notice: 8.Mahabubnagar:Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:20:32,903 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:32,906 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'ఇసుక', 'రీచ్']
+2026-07-20 11:20:32,906 [INFO]    Notice: 12.Karimnagar: ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:20:34,969 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:34,972 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'ఇసుక', 'రీచ్']
+2026-07-20 11:20:34,972 [INFO]    Notice: 12.Karimnagar:ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:20:37,240 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:37,243 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'booking', 'ఇసుక']
+2026-07-20 11:20:37,243 [INFO]    Notice: 9.Karimnagar: The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:20:39,217 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:39,220 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:20:39,221 [INFO]    Notice: 6.Mancherial: Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:20:41,164 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:41,169 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:20:41,171 [INFO]    Notice: 3.Karimnagar: Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:20:42,803 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:42,806 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'reach']
+2026-07-20 11:20:42,807 [INFO]    Notice: 11.Karimnagar:Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:20:44,426 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:44,433 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:20:44,434 [INFO]    Notice: 4.Jagitial: జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:20:45,922 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:45,925 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:20:45,926 [INFO]    Notice: 7.Mahabubnagar:Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:20:48,024 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:48,031 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'booking', 'ఇసుక']
+2026-07-20 11:20:48,032 [INFO]    Notice: 9.Karimnagar:The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:20:50,180 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:50,184 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:20:50,184 [INFO]    Notice: 10.Karimnagar: 23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:20:51,921 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:51,924 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:20:51,925 [INFO]    Notice: 10.Karimnagar:23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:20:54,275 [ERROR] Telegram API Error: Bad Request: chat not found
+2026-07-20 11:20:54,278 [INFO] Completed run: Dispatched 20 new alert(s).
+2026-07-20 11:24:59,444 [INFO] ==================================================
+2026-07-20 11:24:59,787 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 11:24:59,787 [INFO] ==================================================
+2026-07-20 11:24:59,788 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 11:24:59,789 [INFO] Target Keywords  : ['Elabotharam', 'Saidapur', 'Karimnagar', 'ఎలబోతారం', 'సైదాపూర్', 'కరీంనగర్', 'open', 'booking', 'reach', 'ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:24:59,789 [INFO] Telegram Enabled : True
+2026-07-20 11:24:59,789 [INFO] Email Enabled    : False
+2026-07-20 11:24:59,789 [INFO] Cache File       : seen_updates.json
+2026-07-20 11:24:59,790 [INFO] Mode: Single Execution (--once)
+2026-07-20 11:24:59,790 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:24:59,790 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:25:00,685 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:25:00,689 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:25:00,689 [INFO]    Notice: 3.Karimnagar:Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:25:02,043 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:02,049 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:25:02,050 [INFO]    Notice: 4.Jagitial: జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:25:03,956 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:03,959 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:25:03,959 [INFO]    Notice: 8.Mahabubnagar:Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:25:05,594 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:05,598 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:25:05,598 [INFO]    Notice: 7.Mahabubnagar: Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:25:07,006 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:07,009 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:25:07,009 [INFO]    Notice: 6.Mancherial: Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:25:08,681 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:08,684 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'ఇసుక', 'రీచ్']
+2026-07-20 11:25:08,685 [INFO]    Notice: 12.Karimnagar:ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:25:10,295 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:10,298 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:25:10,298 [INFO]    Notice: 5.Narayanpet:Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:25:11,549 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:11,553 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'booking', 'ఇసుక']
+2026-07-20 11:25:11,553 [INFO]    Notice: 9.Karimnagar:The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:25:12,916 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:12,919 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'booking', 'ఇసుక']
+2026-07-20 11:25:12,919 [INFO]    Notice: 9.Karimnagar: The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:25:14,191 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:14,194 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:25:14,194 [INFO]    Notice: 7.Mahabubnagar:Sand bookings for Mahabubnagar Town opened w.e.f., 17.03.3026 from (1)Polkampally sand reach of Moosapet mandal (2) Kanmanoor Sand Reach of Addakal Mandal
+2026-07-20 11:25:15,437 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:15,443 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'ఇసుక', 'రీచ్']
+2026-07-20 11:25:15,443 [INFO]    Notice: 12.Karimnagar: ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:25:17,330 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:17,334 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['open', 'booking', 'reach']
+2026-07-20 11:25:17,334 [INFO]    Notice: 5.Narayanpet: Booking are open for Warkoor & Nagireddypally reach at reasonable prices
+2026-07-20 11:25:18,644 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:18,647 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:25:18,647 [INFO]    Notice: 10.Karimnagar: 23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:25:20,142 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:20,147 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'reach']
+2026-07-20 11:25:20,147 [INFO]    Notice: 11.Karimnagar: Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:25:21,636 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:21,639 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:25:21,639 [INFO]    Notice: 10.Karimnagar:23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:25:22,933 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:22,936 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking']
+2026-07-20 11:25:22,937 [INFO]    Notice: 3.Karimnagar: Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:25:24,256 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:24,258 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'booking', 'reach']
+2026-07-20 11:25:24,258 [INFO]    Notice: 11.Karimnagar:Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:25:25,627 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:25,632 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:25:25,632 [INFO]    Notice: 6.Mancherial:Contact no:- 7386276718 for Sand Booking slot updates.. Timings 10.00am to 5.30pm
+2026-07-20 11:25:27,158 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:27,164 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['booking']
+2026-07-20 11:25:27,164 [INFO]    Notice: 8.Mahabubnagar: Due to large bookings pending the new bookings are disabled and will be active after old bookings are closed
+2026-07-20 11:25:28,815 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:28,819 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:25:28,819 [INFO]    Notice: 4.Jagitial:జగిత్యాల జిల్లా కోరుట్ల మండలం పైడిమడుగు మరియు రాయికల్ మండలం ఇటిక్యాల ఇసుక రీచ్ లో బుకింగ్స్ ప్రారంభం అయినాయి. ఇసుక అవసరం ఉన్న వారు బుకింగ్ చేసుకోగలరు.
+2026-07-20 11:25:30,366 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:25:30,369 [INFO] Completed run: Dispatched 20 new alert(s).
+2026-07-20 11:25:57,179 [INFO] ==================================================
+2026-07-20 11:25:57,180 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 11:25:57,181 [INFO] ==================================================
+2026-07-20 11:25:57,183 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 11:25:57,183 [INFO] Target Keywords  : ['Elabotharam', 'Saidapur', 'Karimnagar', 'ఎలబోతారం', 'సైదాపూర్', 'కరీంనగర్', 'open', 'booking', 'reach', 'ఇసుక', 'బుకింగ్స్', 'రీచ్']
+2026-07-20 11:25:57,184 [INFO] Telegram Enabled : True
+2026-07-20 11:25:57,185 [INFO] Email Enabled    : False
+2026-07-20 11:25:57,185 [INFO] Cache File       : seen_updates.json
+2026-07-20 11:25:57,185 [INFO] Mode: Daemon Polling (Interval: 300 seconds)
+2026-07-20 11:25:57,186 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:25:57,186 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:25:58,301 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:25:58,308 [INFO] No new matching sand availability announcements found in this run.
+2026-07-20 11:25:58,309 [INFO] Sleeping for 300 seconds until next check...
+2026-07-20 11:30:58,310 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:30:58,311 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:30:58,984 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:30:58,990 [INFO] No new matching sand availability announcements found in this run.
+2026-07-20 11:30:58,990 [INFO] Sleeping for 300 seconds until next check...
+2026-07-20 11:35:19,924 [INFO] ==================================================
+2026-07-20 11:35:19,924 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 11:35:19,924 [INFO] ==================================================
+2026-07-20 11:35:19,924 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 11:35:19,925 [INFO] Target Keywords  : ['Karimnagar', 'కరీంనగర్', 'Saidapur', 'సైదాపూర్', 'Elabotharam', 'ఎలబోతారం', 'Lingapur', 'లింగాపూర్', 'Korekal', 'కోరేకల్']
+2026-07-20 11:35:19,925 [INFO] Telegram Enabled : True
+2026-07-20 11:35:19,925 [INFO] Email Enabled    : False
+2026-07-20 11:35:19,925 [INFO] Cache File       : seen_updates.json
+2026-07-20 11:35:19,925 [INFO] Mode: Single Execution (--once)
+2026-07-20 11:35:19,925 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:35:19,926 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:35:20,620 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:35:20,623 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar']
+2026-07-20 11:35:20,623 [INFO]    Notice: 10.Karimnagar: 23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:35:22,041 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:35:22,044 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్']
+2026-07-20 11:35:22,044 [INFO]    Notice: 9.Karimnagar:The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:35:23,353 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:35:23,356 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar']
+2026-07-20 11:35:23,356 [INFO]    Notice: 10.Karimnagar:23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:35:24,658 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:35:24,660 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'లింగాపూర్', 'కోరేకల్']
+2026-07-20 11:35:24,660 [INFO]    Notice: 12.Karimnagar:ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:35:25,890 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:35:25,892 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్']
+2026-07-20 11:35:25,892 [INFO]    Notice: 9.Karimnagar: The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:35:27,273 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:35:27,276 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'లింగాపూర్', 'కోరేకల్']
+2026-07-20 11:35:27,276 [INFO]    Notice: 12.Karimnagar: ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:35:28,493 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:35:28,496 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar']
+2026-07-20 11:35:28,496 [INFO]    Notice: 3.Karimnagar: Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:35:30,009 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:35:30,012 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar']
+2026-07-20 11:35:30,012 [INFO]    Notice: 3.Karimnagar:Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:35:31,242 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:35:31,244 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'Lingapur', 'Korekal']
+2026-07-20 11:35:31,245 [INFO]    Notice: 11.Karimnagar: Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:35:32,527 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:35:32,530 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'Lingapur', 'Korekal']
+2026-07-20 11:35:32,530 [INFO]    Notice: 11.Karimnagar:Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:35:33,805 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:35:33,808 [INFO] Completed run: Dispatched 10 new alert(s).
+2026-07-20 11:35:58,991 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:35:58,991 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:35:59,898 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:35:59,900 [INFO] No new matching sand availability announcements found in this run.
+2026-07-20 11:35:59,901 [INFO] Sleeping for 300 seconds until next check...
+2026-07-20 11:39:26,387 [INFO] Keyboard interrupt received. Shutting down Sand Availability Notifier Agent. Goodbye!
+2026-07-20 11:39:59,307 [INFO] ==================================================
+2026-07-20 11:39:59,308 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 11:39:59,308 [INFO] ==================================================
+2026-07-20 11:39:59,308 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 11:39:59,308 [INFO] Target Keywords  : ['Karimnagar', 'కరీంనగర్', 'Saidapur', 'సైదాపూర్', 'Elabotharam', 'ఎలబోతారం', 'Lingapur', 'లింగాపూర్', 'Korekal', 'కోరేకల్']
+2026-07-20 11:39:59,308 [INFO] Telegram Enabled : True
+2026-07-20 11:39:59,308 [INFO] Email Enabled    : False
+2026-07-20 11:39:59,309 [INFO] Cache File       : seen_updates.json
+2026-07-20 11:39:59,309 [INFO] Mode: Single Execution (--once)
+2026-07-20 11:39:59,309 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:39:59,309 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 11:40:00,102 [INFO] Extracted 23 total portal announcement items.
+2026-07-20 11:40:00,105 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్']
+2026-07-20 11:40:00,106 [INFO]    Notice: 9.Karimnagar: The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:40:01,191 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:40:01,193 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్']
+2026-07-20 11:40:01,193 [INFO]    Notice: 9.Karimnagar:The INDIRAMMA INDLU beneficiaries of Karimnagar District, are informed that sand bookings for Indiramma Houses are available in Mana Isuka Vahanam, Sand Taxi, Beneficiaries are requested to approach Panchayath Secretary of Grampanchayat . కరీంనగర్ జిల్లాకు చెందిన ఇందిరమ్మ ఇండ్లు లబ్ధిదారులు, ఇందిరమ్మ ఇళ్ల కోసం ఇసుక బుకింగ్‌లు మన ఇసుక వాహనం, ఇసుక ట్యాక్సీలో అందుబాటులో ఉన్నాయని, లబ్ధిదారులు గ్రామపంచాయతీ కార్యదర్శిని సంప్రదించాలని కోరారు.
+2026-07-20 11:40:02,463 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:40:02,466 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar']
+2026-07-20 11:40:02,467 [INFO]    Notice: 10.Karimnagar: 23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:40:03,728 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:40:03,733 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'Lingapur', 'Korekal']
+2026-07-20 11:40:03,733 [INFO]    Notice: 11.Karimnagar: Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:40:04,960 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:40:04,963 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar']
+2026-07-20 11:40:04,964 [INFO]    Notice: 3.Karimnagar: Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:40:06,118 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:40:06,121 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar']
+2026-07-20 11:40:06,122 [INFO]    Notice: 3.Karimnagar:Customers Whoever Wants to Contact to Helpline Regarding (Sand Booking, Delivery Timing and Payment Failed issues) Call to - +918897476247 Timings 10:00 AM TO 2:00 PM & 3:00 PM TO 5.30PM
+2026-07-20 11:40:07,282 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:40:07,285 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'లింగాపూర్', 'కోరేకల్']
+2026-07-20 11:40:07,285 [INFO]    Notice: 12.Karimnagar: ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:40:08,425 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:40:08,428 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'Lingapur', 'Korekal']
+2026-07-20 11:40:08,428 [INFO]    Notice: 11.Karimnagar:Today, 18/07/2026 Lingapur sand reach for Karimnagar Division and Korekal sand reach for Huzurabad Division bookings were going to be on at 03:00 PM .Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:40:09,589 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:40:09,592 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar', 'కరీంనగర్', 'లింగాపూర్', 'కోరేకల్']
+2026-07-20 11:40:09,593 [INFO]    Notice: 12.Karimnagar:ఈ రోజు (18/07/2026) మధ్యాహ్నం 3:00 గంటలకు కరీంనగర్ డివిజన్ పరిధిలోని లింగాపూర్ ఇసుక రీచ్ మరియు హుజురాబాద్ డివిజన్ పరిధిలోని కోరేకల్ ఇసుక రీచ్‌లకు బుకింగ్‌లు ప్రారంభం కానున్నాయి. బుకింగ్‌ల రద్దీని బట్టి, ఈ స్లాట్‌లు 5 నుండి 10 నిమిషాల్లోనే మూసివేయబడవచ్చు.
+2026-07-20 11:40:10,685 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:40:10,688 [INFO] 🔥 NEW MATCH DETECTED! Keywords: ['Karimnagar']
+2026-07-20 11:40:10,688 [INFO]    Notice: 10.Karimnagar:23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
+2026-07-20 11:40:11,745 [INFO] ✅ Telegram alert sent successfully.
+2026-07-20 11:40:11,748 [INFO] Completed run: Dispatched 10 new alert(s).
