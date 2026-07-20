@@ -49,15 +49,10 @@ jobs:
           TARGET_URL: 'https://tgmiv.cgg.gov.in/home'
           KEYWORDS: 'Karimnagar,కరీంనగర్,Saidapur,సైదాపూర్,Elabotharam,ఎలబోతారం,Lingapur,లింగాపూర్,Korekal,కోరేకల్'
           ENABLE_TELEGRAM: 'true'
-          SECRET_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          SECRET_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_BOT_TOKEN: '8888583463:AAFJz234Cqz4ayoMFzJlsfcoZVVWRGsPqks'
+          TELEGRAM_CHAT_ID: '1311432483'
           CACHE_FILE: 'seen_updates.json'
         run: |
-          export TELEGRAM_BOT_TOKEN="${SECRET_BOT_TOKEN:-8888583463:AAFJz234Cqz4ayoMFzJlsfcoZVVWRGsPqks}"
-          export TELEGRAM_CHAT_ID="${SECRET_CHAT_ID:-1311432483}"
-          
-          echo "Telegram Bot Token Length: ${#TELEGRAM_BOT_TOKEN}, Chat ID: $TELEGRAM_CHAT_ID"
-          
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "Manual Trigger: Running in Immediate Test Alert mode..."
             python monitor.py --once --test
