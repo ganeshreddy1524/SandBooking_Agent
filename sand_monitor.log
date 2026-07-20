@@ -586,3 +586,16 @@
 2026-07-20 06:26:56,664 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
 2026-07-20 06:26:57,819 [ERROR] Network error fetching portal content: 403 Client Error: Forbidden for url: https://tgmiv.cgg.gov.in/home
 2026-07-20 06:26:57,820 [INFO] No new matching sand availability announcements found in this run.
+2026-07-20 08:12:14,812 [INFO] ==================================================
+2026-07-20 08:12:14,812 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 08:12:14,812 [INFO] ==================================================
+2026-07-20 08:12:14,812 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 08:12:14,812 [INFO] Target Keywords  : ['Karimnagar', 'కరీంనగర్', 'Saidapur', 'సైదాపూర్', 'Elabotharam', 'ఎలబోతారం', 'Lingapur', 'లింగాపూర్', 'Korekal', 'కోరేకల్']
+2026-07-20 08:12:14,812 [INFO] Telegram Enabled : True
+2026-07-20 08:12:14,812 [INFO] Email Enabled    : False
+2026-07-20 08:12:14,812 [INFO] Cache File       : seen_updates.json
+2026-07-20 08:12:14,812 [INFO] Mode: Single Execution (--once)
+2026-07-20 08:12:14,812 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 08:12:14,812 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 08:12:15,927 [ERROR] Network error fetching portal content: 403 Client Error: Forbidden for url: https://tgmiv.cgg.gov.in/home
+2026-07-20 08:12:15,928 [INFO] No new matching sand availability announcements found in this run.
