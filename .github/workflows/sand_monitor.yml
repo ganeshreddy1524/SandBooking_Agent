@@ -21,8 +21,6 @@ on:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
@@ -38,6 +36,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Restore Cache State
+        uses: actions/cache@v4
+        with:
+          path: seen_updates.json
+          key: sand-cache-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            sand-cache-${{ runner.os }}-
+
       - name: Run Sand Monitor Check
         env:
           TARGET_URL: 'https://tgmiv.cgg.gov.in/home'
@@ -50,21 +56,14 @@ jobs:
           export TELEGRAM_BOT_TOKEN="${SECRET_BOT_TOKEN:-8888583463:AAFJz234Cqz4ayoMFzJlsfcoZVVWRGsPqks}"
           export TELEGRAM_CHAT_ID="${SECRET_CHAT_ID:-1311432483}"
           
-          echo "Telegram Token set: ${#TELEGRAM_BOT_TOKEN} chars, Chat ID: $TELEGRAM_CHAT_ID"
+          echo "Telegram Bot Token Length: ${#TELEGRAM_BOT_TOKEN}, Chat ID: $TELEGRAM_CHAT_ID"
           
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "Manual Trigger: Running in Immediate Alert mode..."
+            echo "Manual Trigger: Running in Immediate Test Alert mode..."
             python monitor.py --once --test
           else
             echo "Scheduled Trigger: Running in Cache Deduplication mode..."
             python monitor.py --once
           fi
 
-      - name: Commit & Push Updated Cache
-        if: github.event.inputs.force_alert != 'true'
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add seen_updates.json sand_monitor.log || true
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update seen announcements cache [skip ci]" && git push)
 

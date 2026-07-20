@@ -1,0 +1,11 @@
+# Ignore secret environment configuration
+.env
+
+# Ignore runtime cache and log files
+seen_updates.json
+*.log
+sand_monitor.log
+
+# Python cache
+__pycache__/
+*.pyc
