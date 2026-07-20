@@ -43,8 +43,8 @@ jobs:
           TARGET_URL: ${{ secrets.TARGET_URL || 'https://tgmiv.cgg.gov.in/home' }}
           KEYWORDS: ${{ secrets.KEYWORDS || 'Karimnagar,కరీంనగర్,Saidapur,సైదాపూర్,Elabotharam,ఎలబోతారం,Lingapur,లింగాపూర్,Korekal,కోరేకల్' }}
           ENABLE_TELEGRAM: 'true'
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || '8888583463:AAFJz234Cqz4ayoMFzJlsfcoZVVWRGsPqks' }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || '1311432483' }}
           CACHE_FILE: 'seen_updates.json'
         run: |
           if [ "${{ github.event.inputs.force_alert }}" = "true" ]; then
