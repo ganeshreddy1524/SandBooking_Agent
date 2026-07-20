@@ -132,11 +132,23 @@ def fetch_announcements(url: str = TARGET_URL) -> List[str]:
     """
     logger.info(f"Fetching portal updates from {url}...")
     try:
-        response = requests.get(url, headers=HEADERS, timeout=15, verify=True)
+        response = requests.get(url, headers=HEADERS, timeout=20, verify=True)
+        logger.info(f"Portal HTTP Response Code: {response.status_code}")
         response.raise_for_status()
         response.encoding = "utf-8"
     except requests.RequestException as e:
         logger.error(f"Network error fetching portal content: {e}")
+        # If running in automated environments, alert if portal is unreachable/blocked
+        if ENABLE_TELEGRAM and TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID:
+            try:
+                err_msg = f"⚠️ <b>Sand Agent Alert:</b> Unable to reach TGMIV portal from server IP ({e})."
+                requests.post(
+                    f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
+                    json={"chat_id": TELEGRAM_CHAT_ID, "text": err_msg, "parse_mode": "HTML"},
+                    timeout=5
+                )
+            except Exception:
+                pass
         return []
 
     soup = BeautifulSoup(response.text, "html.parser")
