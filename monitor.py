@@ -294,15 +294,43 @@ def send_email_alert(notice_text: str, matched_keywords: List[str]):
         logger.error(f"Failed to send Email alert: {e}")
 
 
+def extract_karimnagar_summary(announcements: List[str]) -> str:
+    """Extracts all notice strings relevant to Karimnagar to track overall section diffs."""
+    karimnagar_items = []
+    for ann in announcements:
+        if any(kw.lower() in ann.lower() or kw in ann for kw in ["karimnagar", "కరీంనగర్", "lingapur", "లింగాపూర్", "korekal", "కోరేకల్", "saidapur", "సైదాపూర్"]):
+            karimnagar_items.append(ann.strip())
+    karimnagar_items.sort()
+    return " | ".join(karimnagar_items)
+
+
 def check_and_notify(cache: StateCache, test_mode: bool = False) -> int:
     """
-    Scrapes portal, runs keyword matching, checks cache, and fires alerts.
+    Scrapes portal, runs keyword matching, tracks Karimnagar section changes, checks cache, and fires alerts.
     Returns the count of new matching notices found.
     """
     logger.info(f"Running monitoring check against {TARGET_URL}...")
     announcements = fetch_announcements(TARGET_URL)
     new_alerts_count = 0
 
+    # 1. Track overall Karimnagar Reach Section changes
+    karimnagar_summary = extract_karimnagar_summary(announcements)
+    if karimnagar_summary:
+        summary_hash = hashlib.sha256(karimnagar_summary.encode("utf-8")).hexdigest()
+        previous_hash = cache.seen_data.get("_karimnagar_section_hash", {}).get("hash", "")
+        
+        if summary_hash != previous_hash and not test_mode:
+            logger.info("🔥 KARIMNAGAR REACH CONTENT / STATUS CHANGE DETECTED!")
+            change_notice = f"📢 <b>KARIMNAGAR PORTAL SECTION UPDATED:</b>\n{karimnagar_summary}"
+            send_telegram_alert(change_notice, ["Karimnagar Update"])
+            cache.seen_data["_karimnagar_section_hash"] = {
+                "hash": summary_hash,
+                "summary": karimnagar_summary,
+                "last_updated": datetime.now().isoformat()
+            }
+            cache.save()
+
+    # 2. Individual notice match check
     for notice in announcements:
         is_match, matched_kws = matches_keywords(notice, KEYWORDS)
         if is_match:
