@@ -573,3 +573,16 @@
 2026-07-20 11:40:10,688 [INFO]    Notice: 10.Karimnagar:23/06/2026 Onwards, As per CGG Guideline Sand Booking customers are informed that due to heavy load on website bookings time is changed to 03:00 PM. Depending upon bookings slot will closed within 5-10 Min.
 2026-07-20 11:40:11,745 [INFO] ✅ Telegram alert sent successfully.
 2026-07-20 11:40:11,748 [INFO] Completed run: Dispatched 10 new alert(s).
+2026-07-20 06:26:56,664 [INFO] ==================================================
+2026-07-20 06:26:56,664 [INFO]    Telangana Sand Availability Notifier Agent     
+2026-07-20 06:26:56,664 [INFO] ==================================================
+2026-07-20 06:26:56,664 [INFO] Target URL       : https://tgmiv.cgg.gov.in/home
+2026-07-20 06:26:56,664 [INFO] Target Keywords  : ['Karimnagar', 'కరీంనగర్', 'Saidapur', 'సైదాపూర్', 'Elabotharam', 'ఎలబోతారం', 'Lingapur', 'లింగాపూర్', 'Korekal', 'కోరేకల్']
+2026-07-20 06:26:56,664 [INFO] Telegram Enabled : True
+2026-07-20 06:26:56,664 [INFO] Email Enabled    : False
+2026-07-20 06:26:56,664 [INFO] Cache File       : seen_updates.json
+2026-07-20 06:26:56,664 [INFO] Mode: Single Execution (--once)
+2026-07-20 06:26:56,664 [INFO] Running monitoring check against https://tgmiv.cgg.gov.in/home...
+2026-07-20 06:26:56,664 [INFO] Fetching portal updates from https://tgmiv.cgg.gov.in/home...
+2026-07-20 06:26:57,819 [ERROR] Network error fetching portal content: 403 Client Error: Forbidden for url: https://tgmiv.cgg.gov.in/home
+2026-07-20 06:26:57,820 [INFO] No new matching sand availability announcements found in this run.
